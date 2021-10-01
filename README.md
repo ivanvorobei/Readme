@@ -18,6 +18,10 @@ Scheme this:
 
 You can change tap link and link to source of button.
 
+## Сontribution
+
+My English is very bad. You can see this once you read the documentation. I would really like to have clean and nice documentation. If you see gramatical errors and can help fix the Readme, please contact me hello@ivanvorobei.by or make a Pull Request. Thank you in advance!
+
 ## Other Projects
 
 I love being helpful. Here I have provided a list of libraries that I keep up to date. For see `video previews` of libraries without install open [opensource.ivanvorobei.by](https://opensource.ivanvorobei.by) website.<br>
@@ -27,19 +31,19 @@ I have libraries with native interface and managing permissions. Also available 
     <a href="https://opensource.ivanvorobei.by">
         <img src="https://github.com/ivanvorobei/Readme/blob/main/Buttons/more-libraries.svg">
     </a>
+        <a href="https://xcodeshop.ivanvorobei.by">
+        <img src="https://github.com/ivanvorobei/Readme/blob/main/Buttons/xcode-shop.svg">
+    </a>
 </p>
 
 ## Russian Community
 
-Веду каналы об iOS разработке. Один с туториалами и новостями, другой с обзором библиотек.<br>
-Со сложной задачей помогут в чате.
+Подписывайся в телеграмм-канал, если хочешь получать уведомления о новых туториалах.<br>
+Со сложными и непонятными задачами помогут в чате.
 
 <p float="left">
     <a href="https://tutorials.ivanvorobei.by/telegram/channel">
-        <img src="https://github.com/ivanvorobei/Readme/blob/main/Buttons/russian-community-tutorials.svg">
-    </a>
-    <a href="https://tutorials.ivanvorobei.by/telegram/libs">
-        <img src="https://github.com/ivanvorobei/Readme/blob/main/Buttons/russian-community-libraries.svg">
+        <img src="https://github.com/ivanvorobei/Readme/blob/main/Buttons/open-telegram-channel.svg">
     </a>
     <a href="https://tutorials.ivanvorobei.by/telegram/chat">
         <img src="https://github.com/ivanvorobei/Readme/blob/main/Buttons/russian-community-chat.svg">
